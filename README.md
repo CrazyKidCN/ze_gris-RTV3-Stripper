@@ -1,10 +1,11 @@
 # ze_gris-RTV3 Stripper
 A custom stage "RTV3" on CS:GO Zombie Escape Map ze_gris  
+Preview Video: [YouTube](https://www.youtube.com/watch?v=m1cBKQxfqO4&t=4s) (Player: KaroN) [Bilibili](https://www.bilibili.com/video/BV1Y7411M7oN) (Player: St)
 
 **Map By Kune**  
 **RTV3 Stripper By CrazyKid**  
 Music: Grievous Lady From Game: Arcaea  
-手元: [YouTube](https://www.youtube.com/watch?v=zLV3eTDXbsg&t=2s) [Bilibili](https://www.bilibili.com/video/BV1Kg4y187ap/)
+手元: [YouTube](https://www.youtube.com/watch?v=zLV3eTDXbsg&t=2s) [Bilibili](https://www.bilibili.com/video/BV1Kg4y187ap/) (Player: me :3)
 
 # How to install
 To apply this stripper, place the BGM GrievousLady_fix.mp3 to `Server/csgo/sound/music/ZombiEden/gris`
