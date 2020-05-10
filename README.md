@@ -20,6 +20,9 @@ For debug, set convar `sv_cheats 1` and type to console:
 stopsound;ent_fire !self addoutput "origin -13400 6398 12700";ent_fire relay_rtv3_boss_attack_start trigger;ent_fire !self addoutput health 400"
 ```
 
-Have fun!  
+# Find a glitch? or any idea?
+Pull request is welcome ! Make it greater and more funny !
   
-P.S Sorry for my bad English.
+  
+  
+Have fun and Sorry for my bad English.
